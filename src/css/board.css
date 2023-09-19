@@ -1,0 +1,9 @@
+.row {
+    display: flex;
+}
+
+h1 {
+    font-size: 3rem;
+    color: aliceblue;
+    padding: 1em;
+}
